@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Bhaumik
+Final-year BSc student at Anglia Ruskin University, Cambridge, working at the intersection of large language models and clinical safety.
+Currently
+Building oncology-llm-hallucination-benchmark — my dissertation project evaluating how frequently and how dangerously frontier AI chatbots (Claude, GPT-4, Gemini) hallucinate on cancer-related patient questions, benchmarked against NICE oncology guidelines. Execution May–August 2026.
+Interests
+Clinical NLP, LLM evaluation, patient-safety informatics, reproducible research.
+Tech
+Python · PubMedBERT · spaCy · scikit-learn · Anthropic, OpenAI, and Google AI SDKs
+Contact
 
-<!--
-**bhaumikdg/bhaumikdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: bhaumikdg@gmail.com
+ORCID: 0009-0002-1736-3185
+LinkedIn: www.linkedin.com/in/bhaumikdg
